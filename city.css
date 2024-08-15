@@ -73,7 +73,7 @@ ol li{
 .navbar-custom {
     position: fixed;
     top: -100px;
-    right: 0px;
+    float: right;
     width: 100%;
     z-index: 1030;
     background:none;
