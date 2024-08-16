@@ -185,10 +185,19 @@ section .welcomeText {
  
 }
 form {
-    margin: auto;
-    max-width: 600px;
-    
+    width: 60%; 
+    float: right;
 }
+
+#formContext {
+    width: 35%; 
+   
+    margin-left: 10%; 
+    font-size: 35px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+
 textarea  {
     font-style: italic;
 }
